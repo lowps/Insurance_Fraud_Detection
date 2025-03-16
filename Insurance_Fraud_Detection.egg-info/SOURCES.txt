@@ -1,0 +1,8 @@
+README.md
+pyproject.toml
+Insurance_Fraud_Detection.egg-info/PKG-INFO
+Insurance_Fraud_Detection.egg-info/SOURCES.txt
+Insurance_Fraud_Detection.egg-info/dependency_links.txt
+Insurance_Fraud_Detection.egg-info/requires.txt
+Insurance_Fraud_Detection.egg-info/top_level.txt
+empirical/i_src/__init__.py
